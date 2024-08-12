@@ -1,30 +1,10 @@
 @import './base.css';
 
-.montserrat-100 {
-  font-family: 'Montserrat', sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
-  font-style: normal;
-}
-
-.montserrat-400 {
-  font-family: 'Montserrat', sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.montserrat-900 {
-  font-family: 'Montserrat', sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 900;
-  font-style: bold;
-}
-
 #app {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
+  font-family: 'Cascadia Code', sans-serif;
   font-weight: normal;
 }
 
